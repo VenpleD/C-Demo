@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>6956D201-98F5-4D3C-B0CA-9BA5FDAEE5EA</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>6956D201-98F5-4D3C-B0CA-9BA5FDAEE5EA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run TestC</string>
+			<key>timeStartedRecording</key>
+			<real>677672207.86049497</real>
+			<key>timeStoppedRecording</key>
+			<real>677742938.18629003</real>
+			<key>title</key>
+			<string>Run TestC</string>
+			<key>uniqueIdentifier</key>
+			<string>6956D201-98F5-4D3C-B0CA-9BA5FDAEE5EA</string>
+		</dict>
+		<key>A7CE8797-1E96-4EA1-ADA1-52F2AA4432B2</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A7CE8797-1E96-4EA1-ADA1-52F2AA4432B2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run TestC</string>
+			<key>timeStartedRecording</key>
+			<real>677672170.83894002</real>
+			<key>timeStoppedRecording</key>
+			<real>677672194.81295896</real>
+			<key>title</key>
+			<string>Run TestC</string>
+			<key>uniqueIdentifier</key>
+			<string>A7CE8797-1E96-4EA1-ADA1-52F2AA4432B2</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

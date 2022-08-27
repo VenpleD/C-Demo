@@ -1,0 +1,57 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "c51d7c7fdc972007ba950248403050d855e8f479f8c63072a07e97280239ca59"
+    }
+  ],
+  "containerPath" : "/Users/xmly/Desktop/Program/C-Demo/TestC/TestC.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx12.3",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/xmly/Desktop/Program/C-Demo/TestC/DerivedData/TestC/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/xmly/Desktop/Program/C-Demo/TestC/DerivedData/TestC/Build/Products",
+      "derivedDataPath" : "/Users/xmly/Desktop/Program/C-Demo/TestC/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/xmly/Desktop/Program/C-Demo/TestC/DerivedData/TestC/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/xmly/Desktop/Program/C-Demo/TestC/DerivedData/TestC/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/xmly/Desktop/Program/C-Demo/TestC/DerivedData/TestC/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>2E0C1A10-2D3A-4C9C-8853-40E38047C5C7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2E0C1A10-2D3A-4C9C-8853-40E38047C5C7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestC</string>
+			<key>timeStartedRecording</key>
+			<real>677672168.23166502</real>
+			<key>timeStoppedRecording</key>
+			<real>677672170.77683103</real>
+			<key>title</key>
+			<string>Build TestC</string>
+			<key>uniqueIdentifier</key>
+			<string>2E0C1A10-2D3A-4C9C-8853-40E38047C5C7</string>
+		</dict>
+		<key>E8187495-A1EA-42E6-A4A8-C224C4A38411</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E8187495-A1EA-42E6-A4A8-C224C4A38411.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestC project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestC</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestC</string>
+			<key>timeStartedRecording</key>
+			<real>677672207.77870595</real>
+			<key>timeStoppedRecording</key>
+			<real>677672207.856866</real>
+			<key>title</key>
+			<string>Build TestC</string>
+			<key>uniqueIdentifier</key>
+			<string>E8187495-A1EA-42E6-A4A8-C224C4A38411</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
